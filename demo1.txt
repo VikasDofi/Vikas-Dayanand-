@@ -1,0 +1,4 @@
+Hello Raspberry Pi!
+This is my first file.
+I am GOD
+.

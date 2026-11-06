@@ -1,0 +1,7 @@
+f = open("demo1.txt", "w")
+f.write("Hello Raspberry Pi!\n")
+f.write("This is my first file.")
+f.close()
+f = open("demo1.txt", "a")
+f.write("\nI am GOD\n.")
+f.close()
